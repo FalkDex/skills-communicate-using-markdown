@@ -3,3 +3,7 @@
 ```
 System.out.println("Hey, this is a java code example!");
 ```
+- [x] Add header
+- [ ] Add image
+- [ ] Add code example
+- [ ] Add Task List
